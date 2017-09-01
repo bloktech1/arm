@@ -1,4 +1,4 @@
-FROM containerstack/alpine:3.6.2
+FROM scratch
 ENV ALPINE_ARCH armhf
 ENV ALPINE_VERSION 3.6.2
 
